@@ -2,6 +2,6 @@
   "thumbnail": "Thumbnail",
   "thumbnailUrl": "Thumbnail",
   "regenerate_thumbnail": "Regenerate Thumbnail",
-  "clear_thumbnail": "Clear Thumbnail",
+  "clear_thumbnail": "Delete Thumbnail",
   "please_fill_in_embedly_key": "Please fill in your Embedly API key to enable thumbnails."
 }

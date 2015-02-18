@@ -1,0 +1,7 @@
+{
+  "thumbnail": "Thumbnail",
+  "thumbnailUrl": "Thumbnail",
+  "regenerate_thumbnail": "Erzeuge neues Thumbnail",
+  "clear_thumbnail": "Thumbnail entfernen",
+  "please_fill_in_embedly_key": "Trage deinen Embedly API key ein, um Thumbnails zu aktivieren."
+}
